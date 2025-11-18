@@ -1,0 +1,10 @@
+Flask
+flask-cors
+langchain
+langchain-google-genai
+faiss-cpu
+python-docx
+PyPDF2
+pytesseract
+Pillow
+pdf2image
