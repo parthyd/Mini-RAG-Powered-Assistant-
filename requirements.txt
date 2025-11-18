@@ -1,0 +1,8 @@
+Flask==3.0.2
+sentence-transformers==2.6.1
+faiss-cpu==1.7.4
+requests==2.31.0
+numpy==1.26.4
+PyMuPDF==1.23.26
+tiktoken==0.5.2
+python-dotenv==1.0.1
